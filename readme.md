@@ -16,6 +16,6 @@ then you need to run this command for raylib (the graphics library I use):
 and finally theres an included zip folder called 'Austin Utils', its my custom utility library and all you have to do is drag all the files inside the 'include' folder into msys64/mingw64/include
 
 finally, run this command to compile:
-`g++ -Wall -Werror -Wno-class-memaccess -g -std=c++20 -o UIDesigner.exe UIDesigner.cpp -I C:\msys64\mingw64\include -L C:\msys64\mingw64\lib -lraylib -lopengl32 -lgdi32 -lwinmm -L. -lAustinUtils`
+`g++ -Wall -Werror -Wno-class-memaccess -g -std=c++20 -o main.exe src/main.cpp -I C:\msys64\mingw64\include -L C:\msys64\mingw64\lib -lraylib -lopengl32 -lgdi32 -lwinmm -L. -lAustinUtils`
 
 and then just `./main`

@@ -1,0 +1,33 @@
+{
+  "name": "example_level",
+  "objects": [
+    {
+      "type": "level_object",
+      "collision": [
+        0,
+        0,
+        32,
+        32
+      ],
+      "collision_type": 5,
+      "walkable": false
+    },
+    {
+      "type": "level_floor",
+      "area": [0, 0, 1024, 1024],
+      "texture": "default.png"
+    },
+    {
+      "type": "level_prop",
+      "texture": "example",
+      "collision": [
+        0,
+        200,
+        32,
+        32
+      ],
+      "collision_type": 2,
+      "walkable": false
+    }
+  ]
+}

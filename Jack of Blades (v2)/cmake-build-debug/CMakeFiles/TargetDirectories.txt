@@ -1,3 +1,0 @@
-C:/Users/theau/Documents/Coding Projects/C/Jack of Blades (v2)/cmake-build-debug/CMakeFiles/Main.dir
-C:/Users/theau/Documents/Coding Projects/C/Jack of Blades (v2)/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/theau/Documents/Coding Projects/C/Jack of Blades (v2)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

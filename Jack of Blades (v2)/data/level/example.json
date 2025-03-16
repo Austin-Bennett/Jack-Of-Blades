@@ -1,0 +1,21 @@
+{
+  "name": "example_level",
+  "objects": [
+    {
+      "type": "level_floor",
+      "area": [0, 0, 1024, 1024],
+      "texture": "Environment/Floors/FloorTiles.png"
+    },
+    {
+      "type": "level_prop",
+      "collision": [100, 0, 128, 128],
+      "collision_type": 3,
+      "walkable": false,
+      "texture": "stone_brick_wall_top"
+    },
+    {
+      "type": "player_spawn_point",
+      "position": [0, 0]
+    }
+  ]
+}

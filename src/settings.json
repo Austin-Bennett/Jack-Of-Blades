@@ -1,0 +1,34 @@
+{
+    "keybindings": [
+        {
+            "description": "Switches debug mode on/off",
+            "id": "debug_mode",
+            "key": 292,
+            "mouse": -1
+        },
+        {
+            "description": "Moves the player right",
+            "id": "move_right",
+            "key": 68,
+            "mouse": -1
+        },
+        {
+            "description": "Moves the player left",
+            "id": "move_left",
+            "key": 65,
+            "mouse": -1
+        },
+        {
+            "description": "Moves the player down",
+            "id": "move_down",
+            "key": 83,
+            "mouse": -1
+        },
+        {
+            "description": "Moves the player up",
+            "id": "move_up",
+            "key": 87,
+            "mouse": -1
+        }
+    ]
+}

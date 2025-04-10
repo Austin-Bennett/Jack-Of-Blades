@@ -1,0 +1,135 @@
+{
+    "name": "example_level",
+    "objects": [
+        {
+            "area": [
+                0.0,
+                -32.0,
+                256.0,
+                288.0
+            ],
+            "light_level": 144,
+            "texture": "stone_tiles",
+            "type": "level_floor"
+        },
+        {
+            "area": [
+                128.0,
+                256.0,
+                32.0,
+                128.0
+            ],
+            "light_level": 175,
+            "texture": "stone_tiles",
+            "type": "level_floor"
+        },
+        {
+            "area": [
+                128.0,
+                384.0,
+                256.0,
+                288.0
+            ],
+            "light_level": 196,
+            "texture": "stone_tiles",
+            "type": "level_floor"
+        },
+        {
+            "collision": [
+                0.0,
+                -32.0,
+                256.0,
+                32.0
+            ],
+            "collision_type": 3,
+            "texture": "stone_brick_wall_top",
+            "tint": [
+                255,
+                255,
+                255
+            ],
+            "type": "level_prop",
+            "walkable": false
+        },
+        {
+            "position": [
+                110.60452270507813,
+                17.839454650878906
+            ],
+            "type": "player_spawn_point"
+        },
+        {
+            "color": [
+                255,
+                255,
+                255
+            ],
+            "light_level": 88,
+            "pos": [
+                122.79486083984375,
+                112.36871337890625
+            ],
+            "radius": 100.0,
+            "type": "level_light_source"
+        },
+        {
+            "color": [
+                255,
+                255,
+                255
+            ],
+            "light_level": 88,
+            "pos": [
+                122.79486083984375,
+                112.36871337890625
+            ],
+            "radius": 100.0,
+            "type": "level_light_source"
+        },
+        {
+            "color": [
+                255,
+                255,
+                255
+            ],
+            "light_level": 88,
+            "pos": [
+                122.79486083984375,
+                112.36871337890625
+            ],
+            "radius": 100.0,
+            "type": "level_light_source"
+        },
+        {
+            "collision": [
+                239.76214599609375,
+                367.8493366241455,
+                32.0,
+                32.0
+            ],
+            "collision_type": 3,
+            "texture": "stone_brick_wall_top",
+            "tint": [
+                214,
+                214,
+                255
+            ],
+            "type": "level_prop",
+            "walkable": false
+        },
+        {
+            "color": [
+                255,
+                255,
+                255
+            ],
+            "light_level": 0,
+            "pos": [
+                343.9444580078125,
+                438.13682556152344
+            ],
+            "radius": 100.0,
+            "type": "level_light_source"
+        }
+    ]
+}
